@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personalWebsite/static/css/main.9b447fed.chunk.css",
+    "main.js": "/personalWebsite/static/js/main.f259ad7f.chunk.js",
+    "main.js.map": "/personalWebsite/static/js/main.f259ad7f.chunk.js.map",
+    "runtime-main.js": "/personalWebsite/static/js/runtime-main.74d50f43.js",
+    "runtime-main.js.map": "/personalWebsite/static/js/runtime-main.74d50f43.js.map",
+    "static/js/2.b7364c73.chunk.js": "/personalWebsite/static/js/2.b7364c73.chunk.js",
+    "static/js/2.b7364c73.chunk.js.map": "/personalWebsite/static/js/2.b7364c73.chunk.js.map",
+    "static/js/3.16e4b863.chunk.js": "/personalWebsite/static/js/3.16e4b863.chunk.js",
+    "static/js/3.16e4b863.chunk.js.map": "/personalWebsite/static/js/3.16e4b863.chunk.js.map",
+    "index.html": "/personalWebsite/index.html",
+    "static/css/main.9b447fed.chunk.css.map": "/personalWebsite/static/css/main.9b447fed.chunk.css.map",
+    "static/js/2.b7364c73.chunk.js.LICENSE.txt": "/personalWebsite/static/js/2.b7364c73.chunk.js.LICENSE.txt",
+    "static/media/deer.ab2fcb0e.JPG": "/personalWebsite/static/media/deer.ab2fcb0e.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74d50f43.js",
+    "static/js/2.b7364c73.chunk.js",
+    "static/css/main.9b447fed.chunk.css",
+    "static/js/main.f259ad7f.chunk.js"
+  ]
+}
